@@ -1,8 +1,5 @@
-# Bloc-6---Direction-de-projets-de-gestion-de-donnees
 
-email : oceanezara@yahoo.fr
 
-video: https://share.vidyard.com/watch/ZypRT5tusuCXzxbTrwamr4?
 
 data recovery and implementation of an api and a streamlit
 
